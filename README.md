@@ -11,4 +11,18 @@ This project contains an interactive Excel dashboard that analyzes the sales per
 - *Sales by Channel:** Visualization of sales distribution across multiple sales channels like Amazon, Flipkart, Meesho, Myntra, etc.
 - *Dynamic Filtering:** Interactive slicers to filter data by Month, Channel, and Category for detailed analysis.
 
--Dashboard Interaction-
+## Tools and Techniques Used
+- Microsoft Excel  
+- Pivot Tables and Charts  
+- Slicers for interactivity  
+- Data Cleaning and Transformation using Power Query  
+- Conditional Formatting and Data Labels for clarity  
+
+## Insights
+- Women contribute to 64% of the total sales.  
+- Delivered orders make up 92% of all orders.  
+- Maharashtra and Karnataka are the top-performing states by sales volume.  
+- Amazon is the largest sales channel, accounting for 35.5% of orders.  
+- Peak sales months are March and August
+
+
